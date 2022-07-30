@@ -71,4 +71,7 @@ button:hover {
     button {
         font-size: 0.9rem;
     }
+    .hello {
+        width: 70%;
+    }
 }
